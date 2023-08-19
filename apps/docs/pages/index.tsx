@@ -2,8 +2,8 @@ import { Button } from "ui";
 
 export default function Docs() {
   return (
-    <div>
-      <h1>Docs</h1>
+    <div className="h-[100vh] w-full bg-gray-700">
+      <Button />
     </div>
   );
 }
